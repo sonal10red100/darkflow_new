@@ -1,0 +1,38 @@
+<annotation>
+	<folder>project dataset</folder>
+	<filename>IMG_20191109_133958.jpg</filename>
+	<path>/home/sonal/Desktop/project/datapics/project dataset/IMG_20191109_133958.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1683</xmin>
+			<ymin>2328</ymin>
+			<xmax>2416</xmax>
+			<ymax>3433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1765</xmin>
+			<ymin>631</ymin>
+			<xmax>2498</xmax>
+			<ymax>1736</ymax>
+		</bndbox>
+	</object>
+</annotation>
