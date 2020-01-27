@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20200120_174915.jpg</filename>
+	<path>/home/rachita/Desktop/project/or_dataset/images/IMG_20200120_174915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>1824</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>or</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1537</xmin>
+			<ymin>339</ymin>
+			<xmax>3127</xmax>
+			<ymax>1589</ymax>
+		</bndbox>
+	</object>
+</annotation>

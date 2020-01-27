@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Dataset 2020</folder>
+	<filename>IMG_20200113_223201__01.jpg</filename>
+	<path>/home/sonal/Desktop/project/Dataset 2020/IMG_20200113_223201__01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4600</width>
+		<height>2176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>and</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1658</xmin>
+			<ymin>323</ymin>
+			<xmax>2276</xmax>
+			<ymax>1182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2264</xmin>
+			<ymin>629</ymin>
+			<xmax>2429</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>or</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3005</xmin>
+			<ymin>941</ymin>
+			<xmax>4176</xmax>
+			<ymax>1741</ymax>
+		</bndbox>
+	</object>
+</annotation>
